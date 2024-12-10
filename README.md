@@ -12,7 +12,11 @@ Dataset has already been downloaded into the folder for convenience.
 #### Please download the following libraries
 
 pandas
+
 numpy
+
 matplotlib.pyplot
+
 sqlite3
+
 sklearn
